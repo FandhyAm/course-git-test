@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-<h1>Ini adalah Branch Staging</h1>
-=======
+<h1>Ini adalah main</h1>
